@@ -11,3 +11,12 @@ Into this:
 ![Social Media Proj 1](https://github.com/user-attachments/assets/aef06b5e-ee62-46a1-9b93-3e110446faa7)
 ![Social Media Proj 2](https://github.com/user-attachments/assets/96b28c7b-d96d-4475-8800-8043b365ef46)
 ![Social Media Proj 3](https://github.com/user-attachments/assets/5537b205-d25e-4e94-8e53-2647d835436c)
+
+
+
+
+
+
+
+![Tooth Fairy Payout 1](https://github.com/user-attachments/assets/7bc60bfe-3f2a-436c-b206-70830dd186b3)
+![Tooth Fairy Payout 3](https://github.com/user-attachments/assets/e0289202-0caa-4567-8116-ca9b75c0d728)
