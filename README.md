@@ -1,4 +1,6 @@
 # Flak-Projects
+A hidden bunch of smaller projects that I feel are self explanatory enough to just dump about in here for my own reference.
+
 
 # Social Media Reverse Engineering
 
