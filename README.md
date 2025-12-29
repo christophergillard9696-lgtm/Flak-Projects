@@ -1,8 +1,8 @@
-# Flak-Projects
+# 🗑️ Flak-Projects
 A hidden bunch of smaller projects that I feel are self explanatory enough to just dump about in here for my own reference.
 
 
-# Social Media Reverse Engineering
+# 🎗️ Social Media Reverse Engineering
 
 <img width="829" height="679" alt="next project" src="https://github.com/user-attachments/assets/9e8fcc56-e3af-48b7-b198-1c7b7f4aaec2" />
 
@@ -16,7 +16,7 @@ A hidden bunch of smaller projects that I feel are self explanatory enough to ju
 
 
 
-# Tooth Fairy Payout Report
+# 🧚‍♀️ Tooth Fairy Payout Report
 
 ![Tooth Fairy Payout 1](https://github.com/user-attachments/assets/7bc60bfe-3f2a-436c-b206-70830dd186b3)
 
@@ -31,7 +31,7 @@ A hidden bunch of smaller projects that I feel are self explanatory enough to ju
 
 
 
-# Pirate Sales
+# 🦜 Pirate Sales
 
 ![Pirate1](https://github.com/user-attachments/assets/33886073-e249-4c68-9e8d-a53de070d515)
 
