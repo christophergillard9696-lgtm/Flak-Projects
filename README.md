@@ -17,7 +17,7 @@ A hidden bunch of smaller projects that I feel are self explanatory enough to ju
 
 ![Pirates4](https://github.com/user-attachments/assets/a2bf05dd-b2c9-42c5-8d57-046802bae229)
 
-# 🎗️ Social Media Reverse Engineering
+# 🎗️ Social Media Reverse Engineering Image
 
 <img width="829" height="679" alt="next project" src="https://github.com/user-attachments/assets/9e8fcc56-e3af-48b7-b198-1c7b7f4aaec2" />
 
