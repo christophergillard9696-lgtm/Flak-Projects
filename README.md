@@ -1,6 +1,21 @@
 # 🗑️ Flak-Projects
 A hidden bunch of smaller projects that I feel are self explanatory enough to just dump about in here for my own reference.
 
+# 🧚‍♀️ Tooth Fairy Payout Report
+
+![Tooth Fairy Payout 1](https://github.com/user-attachments/assets/7bc60bfe-3f2a-436c-b206-70830dd186b3)
+
+![Tooth Fairy Payout 3](https://github.com/user-attachments/assets/e0289202-0caa-4567-8116-ca9b75c0d728)
+
+# 🦜 Pirate Sales
+
+![Pirate1](https://github.com/user-attachments/assets/33886073-e249-4c68-9e8d-a53de070d515)
+
+![Pirates2](https://github.com/user-attachments/assets/7ec4883a-94f9-4512-8ebe-efe944b006b3)
+
+![Pirates 3](https://github.com/user-attachments/assets/f1352343-78ac-4092-ac59-a8878f71e7bf)
+
+![Pirates4](https://github.com/user-attachments/assets/a2bf05dd-b2c9-42c5-8d57-046802bae229)
 
 # 🎗️ Social Media Reverse Engineering
 
@@ -13,30 +28,3 @@ A hidden bunch of smaller projects that I feel are self explanatory enough to ju
 ![Social Media Proj 3](https://github.com/user-attachments/assets/5537b205-d25e-4e94-8e53-2647d835436c)
 
 
-
-
-
-# 🧚‍♀️ Tooth Fairy Payout Report
-
-![Tooth Fairy Payout 1](https://github.com/user-attachments/assets/7bc60bfe-3f2a-436c-b206-70830dd186b3)
-
-![Tooth Fairy Payout 3](https://github.com/user-attachments/assets/e0289202-0caa-4567-8116-ca9b75c0d728)
-
-
-
-
-
-
-
-
-
-
-# 🦜 Pirate Sales
-
-![Pirate1](https://github.com/user-attachments/assets/33886073-e249-4c68-9e8d-a53de070d515)
-
-![Pirates2](https://github.com/user-attachments/assets/7ec4883a-94f9-4512-8ebe-efe944b006b3)
-
-![Pirates 3](https://github.com/user-attachments/assets/f1352343-78ac-4092-ac59-a8878f71e7bf)
-
-![Pirates4](https://github.com/user-attachments/assets/a2bf05dd-b2c9-42c5-8d57-046802bae229)
